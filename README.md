@@ -1,10 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on a Event Finder app.<br>👯 I’m looking to collaborate on open source projects and groups projects with others.<br>🌱 I’m currently learning Databases.<br>⚡ Fun fact:<br>	I love coding its my passion💻<br>	I love playing Basketball🏀<br>	I love playing video Games🕹️<br>	I love spending quality time with family🩷<br>	I love coffee☕
 
-
-## 🌐 Socials
-[![Discord]([https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white](https://discord.com/channels/@me))](https://discord.gg/heccity.) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hector-vargas-09a150303) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Hankthetank103) 
-
 # 💻 Tech Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 # 📊 GitHub Stats
