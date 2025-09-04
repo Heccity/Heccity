@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Event Finder app.<br>👯 I’m looking to collaborate on open source projects and groups projects with others.<br>🌱 I’m currently learning Databases.<br>⚡ Fun fact:<br>I love coding its my passion💻<br>I love playing Basketball🏀<br>I love playing video Games🕹️<br>I love spending quality time with family🩷<br>I love coffee☕
+🔭 I’m currently working on a Event Finder app.<br>👯 I’m looking to collaborate on open source projects and groups projects with others.<br>🌱 I’m currently learning Databases.<br>⚡ Fun fact:<br>  I love coding its my passion💻<br>  I love playing Basketball🏀<br>  I love playing video Games🕹️<br>  I love spending quality time with family🩷<br>  I love coffee☕
 
 
 ## 🌐 Socials
