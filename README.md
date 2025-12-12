@@ -1,5 +1,6 @@
-# 🙂 About Me:
-Hello My name is Hector. I am a Software Engineer and have been coding for a while now. My passion is coding, I really enjoy doing it. I am also a tech geek as well, always love the new stuff comming out in tech. I am open to colaborate with others.
+# Hi, I’m Hector 👋
+
+I'm a Software Engineer who enjoys building web apps and APIs. I love solving problems, learning new technologies, and collaborating with others.
 
 # 👨🏼‍💻 Fun Facts:
 * I am currently learning Python🐍
