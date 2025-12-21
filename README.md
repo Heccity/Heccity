@@ -3,7 +3,6 @@
 I'm a Software Engineer who enjoys building web apps and APIs. I love solving problems, learning new technologies, and collaborating with others.
 
 # 👨🏼‍💻 Fun Facts:
-* I am currently learning Python🐍
 * I love basketball🏀
 * I like to learning new thing📚
 * I like playing video games🎮
