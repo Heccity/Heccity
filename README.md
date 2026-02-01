@@ -2,6 +2,11 @@
 
 I'm a Software Engineer who enjoys building web apps and Mobile apps. I love solving problems, learning new technologies, and collaborating with others.
 
+I am currently learning Swift for IOS development!
+<br/>
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/8f9d8c7a-0ccc-4e48-8a56-3ddb71b8cd1f" />
+
+
 # 👨🏼‍💻 Fun Facts:
 * I love basketball🏀
 * I like to learning new thing📚
