@@ -3,6 +3,8 @@
 
 I'm a Software Engineer/IOS Developer who enjoys building web apps and Mobile apps. I love solving problems, learning new technologies, and collaborating with others.
 
+I am currently learning Node js and backend programming!!!📚
+
 # 👨🏼‍💻 Fun Facts:
 * I love basketball🏀
 * I like to learning new thing📚
