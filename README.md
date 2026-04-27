@@ -3,11 +3,9 @@
 
 I am a Mobile Developer. I love solving problems, learning new technologies, and collaborating with others.
 
-I am currently learning Node js and backend programming!!!📚
-
 # 👨🏼‍💻 Fun Facts:
 * I love basketball🏀
-* I like to learning new thing📚
+* I like learning new things📚
 * I like playing video games🎮
 * I love to code and build things💻
 
