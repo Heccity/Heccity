@@ -3,9 +3,6 @@
 
 I am a Developer. I love solving problems, learning new technologies, and collaborating with others.
 
-<h3>Learning Python!</h3> <img width="601" height="203" alt="image" src="https://github.com/user-attachments/assets/64202a95-a83a-416b-a052-52b6cd378aa3" />
-
-
 # 👨🏼‍💻 Fun Facts:
 * I love basketball🏀
 * I like learning new things📚
